@@ -14,5 +14,3 @@ Example usage from a PowerShell Command Line with results:
 Get-PerformanceMetrics 
 
 # Results
-|Process Name| CpuPercnet|
-|this|1|
