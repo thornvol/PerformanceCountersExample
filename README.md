@@ -14,185 +14,33 @@ Example usage from a PowerShell Command Line with results:
 Get-PerformanceMetrics 
 
 # Results
-ProcessName                                                                                                             CpuPercent
------------                                                                                                             ----------
-Idle                                                                                                                            82
-powershell_ise                                                                                                                  14
-devenv#1                                                                                                                         1
-svchost#11                                                                                                                       0
-chrome#16                                                                                                                        0
-conhost#2                                                                                                                        0
-IAStorIcon                                                                                                                       0
-ServiceHub.IdentityHost                                                                                                          0
-svchost                                                                                                                          0
-conhost                                                                                                                          0
-msmdsrv                                                                                                                          0
-IAStorDataMgrSvc                                                                                                                 0
-AeXAgentUIHost                                                                                                                   0
-conhost#6                                                                                                                        0
-fdhost                                                                                                                           0
-OUTLOOK                                                                                                                          0
-cmd                                                                                                                              0
-LMS                                                                                                                              0
-sqlservr#1                                                                                                                       0
-ScriptedSandbox64                                                                                                                0
-Microsoft.Alm.Shared.Remoting.RemoteContainer.dll#2                                                                              0
-ScriptedSandbox64#2                                                                                                              0
-EXCEL                                                                                                                            0
-svchost#6                                                                                                                        0
-svchost#4                                                                                                                        0
-LINQPad.UserQuery#2                                                                                                              0
-ReportingServicesService                                                                                                         0
-chrome#5                                                                                                                         0
-ServiceHub.Host.Node.x86                                                                                                         0
-taskhost                                                                                                                         0
-MouseWithoutBordersHelper                                                                                                        0
-JetBrains.ReSharper.TaskRunner.CLR45.x64                                                                                         0
-ServiceHub.DataWarehouseHost                                                                                                     0
-LINQPad                                                                                                                          0
-sqlwriter                                                                                                                        0
-notepad#1                                                                                                                        0
-LINQPad.UserQuery                                                                                                                0
-svchost#8                                                                                                                        0
-ccSvcHst#1                                                                                                                       0
-dsm_sa_datamgr64                                                                                                                 0
-chrome#10                                                                                                                        0
-devenv                                                                                                                           0
-RAVBg64#1                                                                                                                        0
-smss                                                                                                                             0
-ONENOTEM                                                                                                                         0
-notepad                                                                                                                          0
-ccSvcHst                                                                                                                         0
-regedit                                                                                                                          0
-mDNSResponder                                                                                                                    0
-MsDtsSrvr                                                                                                                        0
-RAVBg64                                                                                                                          0
-unsecapp#2                                                                                                                       0
-chrome#9                                                                                                                         0
-dsm_sa_eventmgr64                                                                                                                0
-Node                                                                                                                             0
-MSOIDSVCM                                                                                                                        0
-lsm                                                                                                                              0
-UcMapi                                                                                                                           0
-lsass                                                                                                                            0
-wfcrun32                                                                                                                         0
-Node#1                                                                                                                           0
-VsHub                                                                                                                            0
-SMSvcHost#1                                                                                                                      0
-LINQPad.UserQuery#4                                                                                                              0
-ldapbrowser                                                                                                                      0
-taskeng                                                                                                                          0
-services                                                                                                                         0
-sqlservr                                                                                                                         0
-AeXNSAgent                                                                                                                       0
-svchost#3                                                                                                                        0
-devenv#3                                                                                                                         0
-UTLite33                                                                                                                         0
-armsvc                                                                                                                           0
-svchost#9                                                                                                                        0
-chrome#7                                                                                                                         0
-lync                                                                                                                             0
-svchost#12                                                                                                                       0
-conhost#5                                                                                                                        0
-NAMECONTROLSERVER                                                                                                                0
-omtsreco                                                                                                                         0
-chrome#6                                                                                                                         0
-audiodg                                                                                                                          0
-ServiceHub.SettingsHost                                                                                                          0
-chrome#4                                                                                                                         0
-Ssms                                                                                                                             0
-unsecapp                                                                                                                         0
-PowerShellToolsProcessHost                                                                                                       0
-PerfWatson2                                                                                                                      0
-RDCMan                                                                                                                           0
-ScriptedSandbox64#1                                                                                                              0
-chrome#3                                                                                                                         0
-chrome#15                                                                                                                        0
-csrss#1                                                                                                                          0
-ServiceHub.Host.CLR.x86                                                                                                          0
-chrome#12                                                                                                                        0
-fdlauncher                                                                                                                       0
-conhost#10                                                                                                                       0
-iexplore                                                                                                                         0
-Receiver                                                                                                                         0
-wininit                                                                                                                          0
-devenv#2                                                                                                                         0
-LINQPad.UserQuery#6                                                                                                              0
-jhi_service                                                                                                                      0
-chrome#13                                                                                                                        0
-chrome#11                                                                                                                        0
-iexplore#2                                                                                                                       0
-chrome#2                                                                                                                         0
-conhost#9                                                                                                                        0
-MSBuild                                                                                                                          0
-svchost#5                                                                                                                        0
-winlogon                                                                                                                         0
-chrome                                                                                                                           0
-taskmgr                                                                                                                          0
-chrome#1                                                                                                                         0
-conhost#1                                                                                                                        0
-svchost#7                                                                                                                        0
-rpcnet                                                                                                                           0
-IpOverUsbSvc                                                                                                                     0
-conhost#4                                                                                                                        0
-SearchProtocolHost                                                                                                               0
-PowerShellToolsProcessHostConsole                                                                                                0
-iusb3mon                                                                                                                         0
-notepad#2                                                                                                                        0
-WavesSvc64                                                                                                                       0
-taskeng#1                                                                                                                        0
-lynchtmlconv                                                                                                                     0
-splwow64                                                                                                                         0
-Microsoft.VsHub.Server.HttpHost                                                                                                  0
-chrome#8                                                                                                                         0
-concentr                                                                                                                         0
-spoolsv                                                                                                                          0
-nvwmi64#1                                                                                                                        0
-svchost#1                                                                                                                        0
-RAVBg64#2                                                                                                                        0
-VBCSCompiler                                                                                                                     0
-RAVBg64#3                                                                                                                        0
-MouseWithoutBorders#1                                                                                                            0
-ServiceHub.RoslynCodeAnalysisService32                                                                                           0
-nvvsvc#1                                                                                                                         0
-csrss                                                                                                                            0
-MSOIDSVC                                                                                                                         0
-ssonsvr                                                                                                                          0
-ServiceHub.VSDetouredHost                                                                                                        0
-RtkNGUI64                                                                                                                        0
-AeXNSAgentHostSurrogate32                                                                                                        0
-OfficeClickToRun                                                                                                                 0
-nvxdsync                                                                                                                         0
-conhost#3                                                                                                                        0
-nvwmi64                                                                                                                          0
-explorer                                                                                                                         0
-mqsvc                                                                                                                            0
-conhost#7                                                                                                                        0
-unsecapp#1                                                                                                                       0
-iexplore#1                                                                                                                       0
-IPROSetMonitor                                                                                                                   0
-LINQPad.UserQuery#5                                                                                                              0
-JetBrains.Profiler.Windows.PdbServer                                                                                             0
-nvvsvc                                                                                                                           0
-Microsoft.Alm.Shared.Remoting.RemoteContainer.dll                                                                                0
-redirector                                                                                                                       0
-notepad++                                                                                                                        0
-SearchIndexer                                                                                                                    0
-TrustedInstaller                                                                                                                 0
-chrome#14                                                                                                                        0
-WmiApSrv                                                                                                                         0
-LINQPad.UserQuery#1                                                                                                              0
-LINQPad.UserQuery#3                                                                                                              0
-WmiPrvSE                                                                                                                         0
-dwm                                                                                                                              0
-conhost#8                                                                                                                        0
-WmiPrvSE#1                                                                                                                       0
-svchost#10                                                                                                                       0
-svchost#2                                                                                                                        0
-SearchFilterHost                                                                                                                 0
-Node#2                                                                                                                           0
-Microsoft.Alm.Shared.Remoting.RemoteContainer.dll#1                                                                              0
-RtkAudioService64                                                                                                                0
-MouseWithoutBorders                                                                                                              0
-System                                                                                                                           0
-SMSvcHost                                                                                                                        0
+||ProcessName||                                                                                                           CpuPercent||
+|Idle|                                                                                                                            82|
+|powershell_ise |                                                                                                                 14|
+|devenv#1 |                                                                                                                        1|
+|svchost#11 |                                                                                                                      0|
+|chrome#16 |                                                                                                                       0|
+|conhost#2 |                                                                                                                       0|
+|IAStorIcon |                                                                                                                      0|
+|ServiceHub.IdentityHost  |                                                                                                        0|
+|svchost     |                                                                                                                     0|
+|conhost |                                                                                                                         0|
+|msmdsrv  |                                                                                                                        0|
+|IAStorDataMgrSvc |                                                                                                                0|
+|AeXAgentUIHost |                                                                                                                  0|
+|conhost#6 |                                                                                                                       0|
+|fdhost  |                                                                                                                         0|
+|OUTLOOK |                                                                                                                         0|
+|cmd    |                                                                                                                          0|
+|LMS   |                                                                                                                           0|
+|sqlservr#1  |                                                                                                                     0|
+|ScriptedSandbox64 |                                                                                                               0|
+|Microsoft.Alm.Shared.Remoting.RemoteContainer.dll#2 |                                                                             0|
+|ScriptedSandbox64#2      |                                                                                                        0|
+|EXCEL           |                                                                                                                 0|
+|svchost#6       |                                                                                                                 0|
+|svchost#4       |                                                                                                                 0|
+|LINQPad.UserQuery#2  |                                                                                                            0|
+|ReportingServicesService  |                                                                                                       0|
+|chrome#5                  |                                                                                                       0|
+|ServiceHub.Host.Node.x86   |                                                                                                      0|
