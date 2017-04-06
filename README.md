@@ -14,3 +14,4 @@ Example usage from a PowerShell Command Line with results:
 Get-PerformanceMetrics 
 
 # Results
+List of process name with CPU Percentage
